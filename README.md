@@ -7,7 +7,8 @@ A simple TODO list built with React.js and styled using CSS.
 
 * Add TODOs<br>
 * Edit TODOS<br>
-* Delete TODOs
+* Delete TODOs<br>
+* Enjoy your TODOs!
 ## Deployment
 
 https://dpro03.github.io/Dave-TODOs/
